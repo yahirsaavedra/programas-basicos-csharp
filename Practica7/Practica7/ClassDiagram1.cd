@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="DIAGRAMA DE CLASE PRÁCTICA 7&#xD;&#xA;YAHIR ALEJANDRO SAAVEDRA GALLARDO, 21490577">
+    <Position X="5.694" Y="1.816" Height="0.667" Width="2.15" />
+  </Comment>
+  <Class Name="Practica7.Figuras">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Figuras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practica7.Rectangulo">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABQAAAAA=</HashCode>
+      <FileName>Rectangulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practica7.Triangulo">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Triangulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
